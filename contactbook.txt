@@ -1,0 +1,13 @@
+
+
+inputSearchField = "contactbook.androidclient:id/editTextApiUrl"
+
+buttonConnect = "contactbook.androidclient:id/buttonConnect"
+
+inputSearchField = "contactbook.androidclient:id/editTextKeyword"
+
+searchButton = "contactbook.androidclient:id/buttonSearch"
+
+fieldFirstName = "contactbook.androidclient:id/textViewFirstName"
+
+fieldLastName = "contactbook.androidclient:id/textViewLastName"
